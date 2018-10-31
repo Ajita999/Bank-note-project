@@ -1,5 +1,6 @@
 ## Bank-note-project
-#Tensorflow Project
+Tensorflow Project
+
 Dataset used is [Bank Authentication Data Set](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) from the UCI repository.
 
 The data consists of 5 columns:
